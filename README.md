@@ -46,7 +46,7 @@
 <br>
 <br>
 
-## <p style="text-align: center;">ARTICLE I: NAME & PURPOSE</p>
+## <div align="center">ARTICLE I: NAME & PURPOSE</div>
 
 ### Section A: Name
 
@@ -64,7 +64,7 @@ The purpose of the Wake Tech Programming Club is to create a social and academic
 
 <br>
 
-## <p style="text-align: center;">ARTICLE II: MEMBERSHIP</p> 
+## <div align="center">ARTICLE II: MEMBERSHIP</div> 
 
 ### Section A: Eligibility
 
@@ -79,7 +79,7 @@ The Programing Club has the right to dismiss any member who fails to abide by th
 
 <br>
 
-## <p style="text-align: center;">ARTICLE III: OFFICERS</p>
+## <div align="center">ARTICLE III: OFFICERS</div>
 
 ### Section A: Composition
 
@@ -87,7 +87,7 @@ At any given time, the Programming Club must have the following permanent office
 
 ### Section B: Eligibility 
 
-Officers must be full-time, or part-time students, carrying at least 6 		credits and maintain a cumulative GPA of 2.8.
+Officers must be full-time, or part-time students, carrying at least 6 credits and maintain a cumulative GPA of 2.8.
 
 ### Section C: Election 
 
@@ -107,7 +107,7 @@ If any Officer, with the exception of the President, should resign then the posi
 
 <br>
 
-## <p style="text-align: center;">ARTICLE IV: ROLES OF OFFICERS</p>
+## <div align="center">ARTICLE IV: ROLES OF OFFICERS</div>
 
 ### Section A: President
 
@@ -139,11 +139,11 @@ If any Officer, with the exception of the President, should resign then the posi
 
 <br>
 
-## <p style="text-align: center;">ARTICLE V: MEETINGS</p>
+## <div align="center">ARTICLE V: MEETINGS</div>
 
 ### Section A: Meeting Schedule
 
-Regular meetings shall be held twice a month, bi-weekly during the 		regular school year.
+Regular meetings shall be held twice a month, bi-weekly during the regular school year.
 
 ### Section B: Special Meetings
 
@@ -159,7 +159,7 @@ Robert’s Rules of Orders shall govern this club in all cases to which they are
 
 <br>
 
-## <p style="text-align: center;">ARTICLE VI: ADVISORS</p>
+## <div align="center">ARTICLE VI: ADVISORS</div>
 
 ### Section A: Selection
 
@@ -180,7 +180,7 @@ The responsibilities of the faculty advisor shall be to:
 
 <br>
 
-## <p style="text-align: center;">ARTICLE VII: COMMITTEES</p>
+## <div align="center">ARTICLE VII: COMMITTEES</div>
 
 ### Section A: Program Committee
 
@@ -192,7 +192,7 @@ The President shall have the authority to appoint any special committees, with t
 
 <br>
 
-## <p style="text-align: center;">ARTICLE VIII: AMENDMENTS</p>
+## <div align="center">ARTICLE VIII: AMENDMENTS</div>
 
 ### Section A: Amending
 
