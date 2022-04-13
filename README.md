@@ -1,44 +1,44 @@
-<p align="center"><img src="./wtpc_logo.png" alt="club logo"></p>
+<div align="center"><img src="./wtpc_logo.png" alt="club logo"></div>
 
-# <p style="text-align: center;">Programming Club Constitution</p>
-## <p style="text-align: center;">Wake Technical Community College</p>
-
-<br>
-<br>
-
-## <p style="text-align: center;"></a>Table of Contents</p>
+# <div align="center">Programming Club Constitution</div>
+## <div align="center">Wake Technical Community College</div>
 
 <br>
+<br>
 
-### [Article I: Name and Purpose](./README.md#Section-A:-Name)
+## <div align="center">Table of Contents</div>
+
+<br>
+
+### Article I: Name and Purpose
 #### Section A. Name
 #### Section B. Purpose
-### [Article II: Membership](./README.md#Section-A:-Eligibility)
+### Article II: Membership
 #### Section A. Eligibility
 #### Section B. Revocation of Membership
-### [Article III: Officers](./README.md#Section-A:-Composition)
+### Article III: Officers
 #### Section A. Composition
 #### Section B. Eligibility
 #### Section C. Election
 #### Section D. Term
 #### Section E. Vacancy
 #### Section F. Resignation
-### [Article IV: Roles of Officers](./README.md#Section-A:-President)
+### Article IV: Roles of Officers
 #### Section A. President
 #### Section B. Vice-President
 #### Section C. Treasurer
-### [Article V: Meetings](./README.md#Section-A:-Meeting-Schedule)
+### Article V: Meetings
 #### Section A. Meeting Schedule
 #### Section B. Special Meetings
 #### Section C. Quorum
 #### Section D. Parliamentary Authority
-### [Article VI: Advisors](./README.md#Section-A:-Selection)
+### Article VI: Advisors
 #### Section A. Selection
 #### Section B. Duties
-### [Article VII: Committees](./README.md#Section-A:-Program-Committee)
+### Article VII: Committees
 #### Section A. Program Committee
 #### Section B. Special Committees
-### [Article VIII: Amendments](./README.md#Section-A:-Amending)
+### Article VIII: Amendments
 #### Section A. Amending
 #### Section B. Notice
 
