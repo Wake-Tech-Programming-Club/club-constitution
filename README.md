@@ -3,46 +3,48 @@
 # <p style="text-align: center;">Programming Club Constitution</p>
 ## <p style="text-align: center;">Wake Technical Community College</p>
 
-#
-#
+<br>
+<br>
 
 ## <p style="text-align: center;"></a>Table of Contents</p>
-#
-### [Article I: Name and Purpose](#Section-A:-Name)
+
+<br>
+
+### [Article I: Name and Purpose](./README.md#Section-A:-Name)
 #### Section A. Name
 #### Section B. Purpose
-### [Article II: Membership](#Section-A:-Eligibility)
+### [Article II: Membership](./README.md#Section-A:-Eligibility)
 #### Section A. Eligibility
-#### Section B. Removal from Office and Membership
-### [Article III: Officers](#Section-A.-Composition)
+#### Section B. Revocation of Membership
+### [Article III: Officers](./README.md#Section-A:-Composition)
 #### Section A. Composition
 #### Section B. Eligibility
 #### Section C. Election
 #### Section D. Term
 #### Section E. Vacancy
 #### Section F. Resignation
-### [Article IV: Roles of Officers](#Section-A.-President)
+### [Article IV: Roles of Officers](./README.md#Section-A:-President)
 #### Section A. President
 #### Section B. Vice-President
 #### Section C. Treasurer
-### [Article V: Meetings](#Section-A.-Meetings)
-#### Section A. Meetings
+### [Article V: Meetings](./README.md#Section-A:-Meeting-Schedule)
+#### Section A. Meeting Schedule
 #### Section B. Special Meetings
 #### Section C. Quorum
 #### Section D. Parliamentary Authority
-### [Article VI: Advisors](#Section-A.-Selection)
+### [Article VI: Advisors](./README.md#Section-A:-Selection)
 #### Section A. Selection
 #### Section B. Duties
-### [Article VII: Committees](#Section-A.-Program-Committee)
+### [Article VII: Committees](./README.md#Section-A:-Program-Committee)
 #### Section A. Program Committee
 #### Section B. Special Committees
-### [Article VIII: Amendments](#Section-A.-Selection)
-#### Section A. Selection
+### [Article VIII: Amendments](./README.md#Section-A:-Amending)
+#### Section A. Amending
 #### Section B. Notice
 
-#
-#
-#
+<br>
+<br>
+<br>
 
 ## <p style="text-align: center;">ARTICLE I: NAME & PURPOSE</p>
 
@@ -60,6 +62,8 @@ The purpose of the Wake Tech Programming Club is to create a social and academic
 5) Promote educational pathways related to programming.
 6) Showcase student programming.
 
+<br>
+
 ## <p style="text-align: center;">ARTICLE II: MEMBERSHIP</p> 
 
 ### Section A: Eligibility
@@ -72,6 +76,8 @@ The Programing Club has the right to dismiss any member who fails to abide by th
 1) Verbal communication clearly indicating the issue(s), and notice that without change of action, the dismissal process will be initiated.
 2) If after one week from verbal communication no change in action is demonstrated, a letter must be written to the member in question, clearly indicating the issue(s) and a notice that without a change in action, the dismissal process will continue.
 3) If after one week from written communication no change in action is demonstrated, a meeting with the club advisors and Officers, except the member in question, shall take place to vote on whether the member in question should be removed from the club.
+
+<br>
 
 ## <p style="text-align: center;">ARTICLE III: OFFICERS</p>
 
@@ -98,6 +104,8 @@ If a vacancy occurs in the office of President, the Vice-President shall assume 
 ### Section F: Resignation
 
 If any Officer, with the exception of the President, should resign then the position shall be opened to all members that are not Officers. Any members that are interested in the position shall be interviewed and appointed by the current Officers. If no members are interested, the position shall be opened to the student body.
+
+<br>
 
 ## <p style="text-align: center;">ARTICLE IV: ROLES OF OFFICERS</p>
 
@@ -128,14 +136,16 @@ If any Officer, with the exception of the President, should resign then the posi
 2) Record the minutes of all meetings.
 3) Keep a file of the club’s records.
 4) Maintain a current roster of membership.
- 
+
+<br>
+
 ## <p style="text-align: center;">ARTICLE V: MEETINGS</p>
 
 ### Section A: Meeting Schedule
 
 Regular meetings shall be held twice a month, bi-weekly during the 		regular school year.
 
-### Section B: Special Meeting
+### Section B: Special Meetings
 
 Special meetings may be called by the President with the approval of the board of club officers.
 
@@ -145,7 +155,9 @@ A quorum shall consist of two-thirds (2/3) of the membership.
 
 ### Section D: Parliamentary Authority 
 
-Robert’s Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
+Robert’s Rules of Orders shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
+
+<br>
 
 ## <p style="text-align: center;">ARTICLE VI: ADVISORS</p>
 
@@ -165,7 +177,9 @@ The responsibilities of the faculty advisor shall be to:
 7) Provide direction in the area of parliamentary procedure, meeting facilitation, group-building, goal setting, and program planning. 
 8) Assist the club officers in monitoring expenditures, fundraising activities, and corporate sponsorship to maintain an accurate and up-to-date account ledger. 
 9) Inform club members of those factors that constitute unacceptable behavior on the part of the club members, and the possible consequence of said behaviors. 
- 
+
+<br>
+
 ## <p style="text-align: center;">ARTICLE VII: COMMITTEES</p>
 
 ### Section A: Program Committee
@@ -176,12 +190,14 @@ A program committee composed of the Vice-President as chairperson and at least f
 
 The President shall have the authority to appoint any special committees, with the approval of the club officers, from time to time as need demands.
 
+<br>
+
 ## <p style="text-align: center;">ARTICLE VIII: AMENDMENTS</p>
 
-### Section A: Selection 
+### Section A: Amending
 
 These bylaws may be amended by a two-thirds (2/3) majority vote of the membership.
 
 ### Section B: Notice
 
-All members shall receive advance notice of the proposed amendment at least five business days before the meeting. (The time may be extended to the following meeting.)
+All members shall receive advance notice of the proposed amendment at least five business days before the meeting (The time may be extended to the following meeting.).
