@@ -15,7 +15,7 @@
 #### Section B. Purpose
 ### Article II: Membership
 #### Section A. Eligibility
-#### Section B. Revocation of Membership
+#### Section B. Removal from Office and Membership
 ### Article III: Officers
 #### Section A. Composition
 #### Section B. Eligibility
@@ -27,18 +27,21 @@
 #### Section A. President
 #### Section B. Vice-President
 #### Section C. Treasurer
-### Article V: Meetings
+#### Section D. Social Coordinator
+### Article V: Server Moderators
+#### Section A. Purpose, Responsibilities, and Requirements
+### Article VI: Meetings
 #### Section A. Meeting Schedule
 #### Section B. Special Meetings
-#### Section C. Quorum
-#### Section D. Parliamentary Authority
-### Article VI: Advisors
+### Article VII: Advisors
 #### Section A. Selection
 #### Section B. Duties
-### Article VII: Committees
+### Article VIII: Committees
 #### Section A. Program Committee
 #### Section B. Special Committees
-### Article VIII: Amendments
+### Article IX: Finances
+#### Section A. Financial Records
+### Article X: Amendments
 #### Section A. Amending
 #### Section B. Notice
 
@@ -70,7 +73,7 @@ The purpose of the Wake Tech Programming Club is to create a social and academic
 
 Membership of the Wake Tech Programming Club is open to all individuals registered as full-time or part-time students at Wake Technical Community College. The Wake Tech Programming Club does not discriminate on the basis of race, color, age, religion, national origin, sexual orientation, gender identity, sex, marital status, disability, or status as a U.S. Veteran.
 
-### Section B: Revocation of Membership
+### Section B: Removal from Office and Membership
 
 The Programing Club has the right to dismiss any member who fails to abide by this Constitution or the Student Code of Conduct. The lead advisor for the club must approve of any dismissal from membership. The following process must be followed to dismiss any Officer or Member from their position.
 1) Verbal communication clearly indicating the issue(s), and notice that without change of action, the dismissal process will be initiated.
@@ -87,19 +90,19 @@ At any given time, the Programming Club must have the following permanent office
 
 ### Section B: Eligibility 
 
-Officers must be full-time, or part-time students, carrying at least 6 credits and maintain a cumulative GPA of 2.8.
+Officers must be full-time, or part-time students, carrying at least 6 credits and maintain a cumulative GPA of 2.5. Officers are required to attend all general business and admin meetings.
 
 ### Section C: Election 
 
-The officers shall be elected by ballot at the last meeting of the spring semester by a majority of the vote cast for that office.
+Officers shall conduct self-nominations and be elected by ballot in case of competition. The ballot should take place during the last meeting of the spring semester by a majority of the vote cast for that office.
 
 ### Section D: Term 
 
-The officers shall serve for one year and their term of office shall begin at the commencement of the fall semester. 
+The officers shall serve for one year and their term of office shall begin at the commencement of the Fall semester. 
 
 ### Section E: Vacancy 
 
-If a vacancy occurs in the office of President, the Vice-President shall assume the office for the remainder of the term and vacancies in any other office shall be filled by a special election.
+If a vacancy occurs in the office of President, the Vice-President shall assume the office for the remainder of the term and vacancies in any other office shall be filled by a special election. All duties of vacant officer positions should be delegated and inherited by the standing officer board.
 
 ### Section F: Resignation
 
@@ -113,12 +116,11 @@ If any Officer, with the exception of the President, should resign then the posi
 
 #### It shall be the duty of the President to:
 
-1) Preside at meetings.
-2) Vote only in case of a tie. 
-3) Represent the club.
-4) Appoint committee chairpersons subject to the approval of the Executive Committee.
-5) Serve as an ex-officio member of all committees except the nominating committee.
-6) Perform such other duties as ordinarily pertain to this office.
+1) Preside at meetings. 
+2) Represent the club.
+3) Appoint committee chairpersons.
+4) Serve as an ex-officio member of all committees except the nominating committee.
+5) Perform such other duties as ordinarily pertain to this office.
 
 ### Section B: Vice-President
 
@@ -137,9 +139,30 @@ If any Officer, with the exception of the President, should resign then the posi
 3) Keep a file of the club’s records.
 4) Maintain a current roster of membership.
 
+### Section D: Social Coordinator
+
+#### It shall be the duty of the Social Coordinator to:
+
+1) Maintain all club marketing campaigns.
+2) Organize club events including guest speakers.
+3) Maintain any club social media.
+
 <br>
 
-## <div align="center">ARTICLE V: MEETINGS</div>
+## <div align="center">ARTICLE V: SERVER MODERATORS</div>
+
+### Section A: Purpose, Responsibilities, and Requirements
+
+The purpose of server moderators are to help maintain the safety and integrity of the club platform. Additionally, moderators will welcome new members and help with any server-related questions. A few specific responsibilities and requirements of moderators are:
+
+1) Attend one admin meeting each month.
+2) Manage member roles and nicknames
+3) Manage threads and remove inappropriate messages or names.
+4) Remove inactive projects at the end of each semester.
+
+<br>
+
+## <div align="center">ARTICLE VI: MEETINGS</div>
 
 ### Section A: Meeting Schedule
 
@@ -149,17 +172,9 @@ Regular meetings shall be held twice a month, bi-weekly during the regular schoo
 
 Special meetings may be called by the President with the approval of the board of club officers.
 
-### Section C: Quorum 
-
-A quorum shall consist of two-thirds (2/3) of the membership.
-
-### Section D: Parliamentary Authority 
-
-Robert’s Rules of Orders shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
-
 <br>
 
-## <div align="center">ARTICLE VI: ADVISORS</div>
+## <div align="center">ARTICLE VII: ADVISORS</div>
 
 ### Section A: Selection
 
@@ -180,7 +195,7 @@ The responsibilities of the faculty advisor shall be to:
 
 <br>
 
-## <div align="center">ARTICLE VII: COMMITTEES</div>
+## <div align="center">ARTICLE VIII: COMMITTEES</div>
 
 ### Section A: Program Committee
 
@@ -192,7 +207,15 @@ The President shall have the authority to appoint any special committees, with t
 
 <br>
 
-## <div align="center">ARTICLE VIII: AMENDMENTS</div>
+## <div align="center">ARTICLE IX: FINANCES</div>
+
+### Section A: Financial Records
+
+All club finances shall be public record and easily accessible. Club financial records should include all income and expenses on a yearly basis.
+
+<br>
+
+## <div align="center">ARTICLE X: AMENDMENTS</div>
 
 ### Section A: Amending
 
